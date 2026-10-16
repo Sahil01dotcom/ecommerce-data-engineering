@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_quantity
+1,Shoes,Electronics,35763.47,270
+2,Dumbbells,Beauty,1789.52,24
+3,Shoes,Electronics,18678.21,145
+4,Keyboard,Electronics,60060.55,186
+5,Face Wash,Home & Kitchen,18383.16,271
+6,Coffee Maker,Electronics,90050.97,107
+7,Smartphone,Home & Kitchen,21409.17,10
+8,Dumbbells,Sports,10459.43,491
+9,Air Fryer,Fashion,4597.33,495
+10,Mixer Grinder,Home & Kitchen,20069.93,73
+11,Running Shoes,Home & Kitchen,9623.9,219
+12,Coffee Maker,Home & Kitchen,21067.65,293
+13,T-Shirt,Fashion,4494.24,491
+14,Monitor,Beauty,3154.47,164
+15,Dumbbells,Beauty,4201.88,165
+16,T-Shirt,Home & Kitchen,13181.7,306
+17,Mixer Grinder,Sports,7242.33,236
+18,Running Shoes,Fashion,4995.27,471
+19,Headphones,Fashion,3195.97,349
+20,Mixer Grinder,Sports,1854.11,497
+21,Backpack,Fashion,2634.09,111
+22,Laptop,Fashion,939.03,253
+23,Headphones,Sports,7103.53,463
+24,T-Shirt,Sports,10916.02,206
+25,Coffee Maker,Beauty,1371.13,345
+26,Keyboard,Electronics,78063.62,122
+27,Running Shoes,Fashion,4913.22,295
+28,Keyboard,Fashion,4836.39,420
+29,Running Shoes,Beauty,4941.88,314
+30,Perfume,Home & Kitchen,18573.24,378
+31,Face Wash,Sports,12543.25,290
+32,Monitor,Beauty,3769.55,253
+33,Shoes,Beauty,3808.53,440
+34,Running Shoes,Home & Kitchen,14795.61,132
+35,Perfume,Home & Kitchen,2785.76,156
+36,Shoes,Fashion,3690.55,467
+37,Headphones,Sports,2506.42,128
+38,Mouse,Beauty,3590.81,42
+39,Face Wash,Beauty,1788.23,248
+40,Smartphone,Beauty,1192.81,225
+41,Laptop,Beauty,4312.31,401
+42,Coffee Maker,Sports,7416.21,492
+43,Backpack,Home & Kitchen,22727.52,446
+44,Dumbbells,Beauty,3788.08,289
+45,Jeans,Sports,7579.33,149
+46,Yoga Mat,Beauty,339.32,182
+47,Monitor,Beauty,4234.43,480
+48,Dumbbells,Fashion,756.18,211
+49,Laptop,Sports,1717.24,229
+50,Perfume,Fashion,2226.43,143
